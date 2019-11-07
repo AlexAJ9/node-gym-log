@@ -1,3 +1,3 @@
 # node-gym-log
 
-[link]( https://gym-log.glitch.me/)
+ https://gym-log.glitch.me/
